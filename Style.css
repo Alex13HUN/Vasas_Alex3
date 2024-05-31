@@ -1,0 +1,100 @@
+h1{
+    color: crimson;
+    text-align: center;
+}
+
+h2{
+    color: coral;
+}
+
+h3{
+    color: burlywood;
+}
+
+div{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: brown;
+
+}
+
+body{
+   background-image: url(collection-of-unique-skechers-hyso7l7f6ivkhyhv.jpg);
+   background-repeat: 1;
+}
+
+img{
+    width: 160px;
+    border: 15px;
+    height: 155px;
+    border-radius: 20%;
+}
+
+p{
+    color: white;
+    margin: auto;
+}
+
+span{
+     font-weight: bold;
+     font-style: italic;
+}
+
+footer{
+    margin: auto;
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+    color: gold;
+    font-size: small;
+
+}
+
+li{
+    color: aqua;
+}
+
+td{
+    color: orchid;
+}
+
+.navbár{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: none;
+    font-size: larger;
+    margin-left: 30px;
+}
+
+li a{
+  display: block;
+  color: white;
+  padding: 5px 7px;
+  text-decoration: none;
+}
+
+a:link :hover :active :visited{
+    color: red;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.kepek1{
+    float: right;
+}
+
+.kepek2{
+    float: center;
+}
+
+.kepek3{
+    float: left;
+}
+
+form{
+    color: white;
+}
+
+.bolt{
+float: left;
+}
